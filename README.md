@@ -1,2 +1,1 @@
-# hello-
-only for study
+Tugas Program Komputer
